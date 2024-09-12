@@ -1,4 +1,5 @@
 # RAG based Question Answering System
+
 RAG based Question Answering System to Chat With Your Data
 
 ## Setup
@@ -24,4 +25,3 @@ streamlit run app.py
 
 ## References:
 -  https://python.langchain.com/v0.2/docs/tutorials/local_rag/
-
