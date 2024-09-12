@@ -4,17 +4,18 @@ RAG based Question Answering System to Chat With Your Data
 
 ## Setup
 
-1. Install Ollama: https://ollama.com/download
+1. [Install Ollama](https://ollama.com/download)
 
-2. load model
-```
+2. Load model
+
+```sh
 ollama pull llama3.1:8b # general purpose model
 ollama pull nomic-embed-text # text embedding model 
 ```
 
-3. Install Python packages:
+3. Install Python dependency
 ```
-pip install langchain langchain_community  langchain_chroma langchain_ollama beautifulsoup4 streamlit
+pip install -r requirement.txt
 ```
 
 4. Run Server
