@@ -1,4 +1,5 @@
-#
+# RAG based Question Answering System
+RAG based Question Answering System to Chat With Your Data
 
 ## Setup
 
